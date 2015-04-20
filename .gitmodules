@@ -1,0 +1,3 @@
+[submodule "SVGInjector"]
+	path = SVGInjector
+	url = git@github.com:iconic/SVGInjector.git
